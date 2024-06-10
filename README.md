@@ -1,4 +1,4 @@
-<img alt="Coding"  src="[[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://media.licdn.com/dms/image/D4D16AQFT3L5D2bO0IQ/profile-displaybackgroundimage-shrink_350_1400/0/1705485168403?e=1723680000&v=beta&t=tq39tCYIWMPUT9JmNOb1efPVS-Tm3fwyaR-x3QqGhR0)](https://github.com/Bhavy1800/Bhavy1800/blob/Enjoy-Services/Github%20Banner.jpeg)">
+![logo](https://github.com/Bhavy1800/Bhavy1800/blob/Enjoy-Services/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Bhavy Patel</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
