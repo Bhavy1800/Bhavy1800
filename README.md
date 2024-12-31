@@ -2,17 +2,13 @@
 <h1 align="center">Hi 👋, I'm Bhavy Patel</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-- 🔭 I’m currently working on [FoodZing - A Modern Restaurant Food Ordering Website](https://foodzing-fb25d.web.app/)
+- 🔭 I’m currently working as frontend developer
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [coderbhavy.me](coderbhavy.me)
 
-- 💬 Ask me about **html, css, javascript, react**
-
 - 📫 How to reach me **bhavyapatel1800@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JGPu3K_n5BI_GZK9vxwDKwOzW3OKauRs/view](https://drive.google.com/file/d/1JGPu3K_n5BI_GZK9vxwDKwOzW3OKauRs/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
