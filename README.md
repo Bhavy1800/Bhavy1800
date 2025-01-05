@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhavy Patel</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-- 🔭 I’m currently working as frontend developer
+- 🔭 I’m currently working as front-end developer
 
 - 🌱 I’m currently learning **Full Stack Development**
 
